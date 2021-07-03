@@ -151,7 +151,7 @@ h3{
 }
 /***********************MARGIN CONDITIONS************************/
 
-@media (max-width:700px){
+@media (max-width:500px){
   .title{
     text-align:center;
   }
